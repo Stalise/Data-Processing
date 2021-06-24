@@ -182,7 +182,7 @@ body {
         opacity: 0;
         -webkit-transform: translate(-70px, 0);
         -ms-transform: translate(-70px, 0);
-        transform: translate(-70px, 0); }
+        transform: translate(, -70px); }
         .wrapper .header .header__container .header__header-menu .header-menu__left-container {
           max-width: 430px;
           width: 100%;
