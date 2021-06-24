@@ -180,9 +180,9 @@ body {
         transition: transform 0.7s, opacity 0.4s;
         transition: transform 0.7s, opacity 0.4s, -webkit-transform 0.7s;
         opacity: 0;
-        -webkit-transform: translate(-70px, 0);
-        -ms-transform: translate(-70px, 0);
-        transform: translate(, -70px); }
+        -webkit-transform: translate(0, -70px);
+        -ms-transform: translate(0, -70px);
+        transform: translate(0 , -70px); }
         .wrapper .header .header__container .header__header-menu .header-menu__left-container {
           max-width: 430px;
           width: 100%;
